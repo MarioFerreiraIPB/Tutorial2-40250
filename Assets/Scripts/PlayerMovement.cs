@@ -10,9 +10,10 @@ public class PlayerMovement : MonoBehaviour
         
     }
 
-    // Update is called once per frame
+   // Update is called once per frame
     void Update()
     {
-        float horizontal = Input.GetAxis ("Horizontal"); 
+        float horizontal = Input.GetAxis ("Horizontal");
+        float vertical = Input.GetAxis ("Vertical");
     }
 }
