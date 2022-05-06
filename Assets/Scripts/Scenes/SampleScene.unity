@@ -346,7 +346,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fadeDuration: 1
-  player: {fileID: 0}
+  displayImageDuration: 1
+  player: {fileID: 233925651764878548}
+  exitBackgroundImageCanvasGroup: {fileID: 433145142}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
